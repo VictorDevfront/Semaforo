@@ -14,8 +14,10 @@ main {
 }
 .button {
     width: 80px;
+    border: 8px solid #;
+    border-radius: 25%;
 }
 
 body {
-    background: black;
+    background: grey;
 }
